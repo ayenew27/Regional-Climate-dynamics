@@ -6,15 +6,15 @@
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Regions around the world are experiencing climate change differently, influenced by a complex interplay of atmospheric, oceanic, and terrestrial processes. Understanding these dynamics is essential for developing effective adaptation and mitigation strategies.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+[Stationarity/ time series analysis / Regression / Clustering / dependency analysis]
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
+- **Best Model:** Copula showed which climate indicies more influencing the regional climate. 
 - **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
 - **Result:** [e.g., 95% accuracy, F1-score of 0.8]
 
